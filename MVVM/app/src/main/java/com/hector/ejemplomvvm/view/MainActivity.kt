@@ -26,8 +26,6 @@ class MainActivity : AppCompatActivity() {
             binding.tvQuote.text = it.quote
             binding.tvAuthor.text = it.author
         })
-
-
         binding.viewContainer.setOnClickListener { quoteViewModel.randomQuote() }
 
     }
