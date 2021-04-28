@@ -1,4 +1,4 @@
-package com.hector.ejemplomvvm
+package com.hector.ejemplomvvm.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
