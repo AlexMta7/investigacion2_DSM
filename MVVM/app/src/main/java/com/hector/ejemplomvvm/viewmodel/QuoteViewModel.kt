@@ -5,7 +5,6 @@ import androidx.lifecycle.MutableLiveData
 import com.hector.ejemplomvvm.model.QuoteModel
 import com.hector.ejemplomvvm.model.QuoteProvider
 
-
 class QuoteViewModel : ViewModel() {
     val quoteModel = MutableLiveData<QuoteModel>()
 
