@@ -1,0 +1,4 @@
+com/hector/ejemplomvvm/databinding/ActivityMainBinding.java
+ com.hector.ejemplomvvm.databinding.ActivityMainBinding
+com/hector/ejemplomvvm/BuildConfig.java
+ com.hector.ejemplomvvm.BuildConfig
