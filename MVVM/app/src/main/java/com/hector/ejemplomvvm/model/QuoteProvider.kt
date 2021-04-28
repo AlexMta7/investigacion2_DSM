@@ -29,31 +29,31 @@ class QuoteProvider {
                 author = "Anónimo"
             ),
             QuoteModel(
-                quote = "I don’t care if it works on your machine! We are not shipping your machine!",
+                quote = "¡No me importa si funciona en su máquina! ¡No vamos a enviar su máquina!",
                 author = "Vidiu Platon"
             ),
             QuoteModel(
-                quote = "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+                quote = "Medir el progreso de la programación por líneas de código es como medir el progreso de la construcción de aviones por su peso.",
                 author = "Bill Gates"
             ),
             QuoteModel(
-                quote = "My code DOESN’T work, I have no idea why. My code WORKS, I have no idea why.",
-                author = "Anonymous"
+                quote = "Mi código NO funciona, no tengo ni idea de por qué. Mi código FUNCIONA, no tengo ni idea de por qué.",
+                author = "Anónimo"
             ),
             QuoteModel(
-                quote = "Things aren’t always #000000 and #FFFFFF",
-                author = "Anonymous"
+                quote = "Las cosas no son siempre #000000 y #FFFFFF",
+                author = "Anónimo"
             ),
             QuoteModel(
-                quote = "Talk is cheap. Show me the code.",
+                quote = "Hablar es barato. Muéstrame el código.",
                 author = "Linus Torvalds"
             ),
             QuoteModel(
-                quote = "Software and cathedrals are much the same — first we build them, then we pray.",
-                author = "Anonymous"
+                quote = "Los programas informáticos y las catedrales son muy parecidos: primero los construimos y luego rezamos.",
+                author = "Anónimo"
             ),
-            QuoteModel(quote = "¿A que esperas?, suscríbete.",
-                author = "AristiDevs"
+            QuoteModel(quote = "Mi GitHub @hector-manny.",
+                author = "Hector Martinez"
             )
         )
     }
