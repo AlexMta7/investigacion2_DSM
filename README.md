@@ -9,3 +9,4 @@ Resumen de capitulos 2, 3 y 4 de <a href="https://cbues.bibliotecasdigitales.com
 * Salvador Armando Peres Pinto 
 
 ## El Ejemplo de la arquitectura es un random frases creada con la arquitectura MVVM
+las capturas de la aplicacion estan <a href="https://github.com/AlexMta7/investigacion2_DSM/tree/master/img">aquí</a>
